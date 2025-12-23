@@ -3,11 +3,11 @@
 <table>
 	<tr>
 		<th align="left">Code Editors<br>I Like</th>
-		<td><a href="https://helix-editor.com/" target="_blank"><img src="https://helix-editor.com/logo.svg" height="42px" /></a> &nbsp; <img src="https://skillicons.dev/icons?i=neovim,vscode" /></td>
+		<td><a href="https://helix-editor.com/" target="_blank"><img src="https://helix-editor.com/logo.svg" height="42px" /></a> &nbsp; <img src="https://skillicons.dev/icons?i=neovim" /></td>
 	</tr>
 	<tr>
 		<th align="left">Languages I'm<br>Good At</th>
-		<td><img src="https://skillicons.dev/icons?i=c,bash,python,cs,js,php" /> ...</td>
+		<td><img src="https://skillicons.dev/icons?i=c,bash,python,cs,js,php,go" /> ...</td>
 	</tr>
 	<tr>
 		<th align="left">Some Skills</th>
@@ -35,6 +35,5 @@
  * [Sudoku solver](https://github.com/isinek/sudoku_solver) - I just love sudoku and killer sudoku...
 
 ### My profiles on other platforms
- * [CodinGame](https://www.codingame.com/profile/0239460023467e4a81d30cce8b1c84684575101) - Mentor (top 0.7%)
- * [HackerRank](https://www.hackerrank.com/isinek)
+ * [CodinGame](https://www.codingame.com/profile/0239460023467e4a81d30cce8b1c84684575101)
  * [LinkedIn](https://www.linkedin.com/in/ivansinek/)
